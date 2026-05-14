@@ -1,7 +1,7 @@
 const terms = [
   {
     letter: "A",
-    name: "Arabesque",
+    name: "arabesque",
     pronunciation: "[a-ra-BESK]",
     definition:
       "A position in which the dancer stands on one leg while extending the other leg straight behind the body, usually at 90 degrees or higher.",
@@ -9,7 +9,7 @@ const terms = [
   },
   {
     letter: "R",
-    name: "Renversé",
+    name: "renversé",
     pronunciation: "[rahn-vehr-SAY]",
     definition:
       "A turning movement in which the dancer lets the body incline in a gentle arc while the working leg sweeps around, creating a smooth off-balance quality before returning upright.",
