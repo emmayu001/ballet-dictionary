@@ -13,7 +13,7 @@ const terms = [
     pronunciation: "[rahn-vehr-SAY]",
     definition:
       "A turning movement in which the dancer lets the body incline in a gentle arc while the working leg sweeps around, creating a smooth off-balance quality before returning upright.",
-    image: "assets/images/renverse.jpg"
+    image: "assets/images/renverse.png"
   }
 ];
 
