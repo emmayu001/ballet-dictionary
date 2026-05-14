@@ -5,7 +5,7 @@ const terms = [
     pronunciation: "[a-ra-BESK]",
     definition:
       "A position in which the dancer stands on one leg while extending the other leg straight behind the body, usually at 90 degrees or higher.",
-    image: "assets/images/arabesque.jpg"
+    image: "assets/images/arabesque1st.jpeg"
   },
   {
     letter: "R",
