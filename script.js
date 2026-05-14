@@ -5,7 +5,7 @@ const terms = [
     pronunciation: "[a-ra-BESK]",
     definition:
       "A position in which the dancer stands on one leg while extending the other leg straight behind the body, usually at 90 degrees or higher.",
-    image: "assets/images/arabesque1st.jpeg"
+    image: "/ballet-dictionary/assets/images/arabesque1st.jpeg"
   },
   {
     letter: "R",
@@ -13,7 +13,7 @@ const terms = [
     pronunciation: "[rahn-vehr-SAY]",
     definition:
       "A turning movement in which the dancer lets the body incline in a gentle arc while the working leg sweeps around, creating a smooth off-balance quality before returning upright.",
-    image: "assets/images/renverse.png"
+    image: "/ballet-dictionary/assets/images/renverse.png"
   }
 ];
 
